@@ -1,0 +1,18 @@
+/* Layout.css */
+
+.sidebar {
+ /* width: 250px;  Initial width of the sidebar */
+ background-color: #e20c0c;  /* Set background color */
+ box-shadow:  /* Define the shadow */
+   10px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .sidebar-closed {
+    width: 0; /* When closed, set width to 0 */
+  }
+  
+  .main-content{
+    padding-top: 30px;
+    margin: 00px;
+  }
+ 

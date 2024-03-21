@@ -1,0 +1,21 @@
+.login-card{
+    width: 100%;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top: 12%;
+    border-radius: 20px;
+}
+
+
+
+.carder-header{
+    margin: 0 auto; /* Added */
+    float: none; 
+    margin-bottom: 15px;
+    color: #5957f9;
+}
+
+.text-bg-primary{
+	background-color: #5957f9;
+}
